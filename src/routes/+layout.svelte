@@ -4,6 +4,7 @@
 		<a href="/">Home</a>
 		<a href="/without-sse">No SSE</a>
 		<a href="/sse">SSE</a>
+		<a href="/sse-with-sveltekit-sse">SSE (Sveltekit SSE)</a>
 	</nav>
 
 	<slot class="content"></slot>
